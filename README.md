@@ -5,7 +5,6 @@
     <meta charset = "UTF-08">
     <title> New Gen</title>
   </head>
-  <body>
 <style>
 * {
   box-sizing: border-box;
@@ -33,6 +32,8 @@
   background-color: #ddd;
   color: black;
 }</style>
+    <body>
+
     <h2>My Journey</h2>
     <p>I dont think so my journey is inspring. but whatever i did i think is worth shareble. no doubt I am a failed Aerospace Engineer yet i have done 
       advanced courses but still i dont consider myself as true aerospace Engineer. I lost all hope projects. I was drowning. My cgpa was decreasing. 
