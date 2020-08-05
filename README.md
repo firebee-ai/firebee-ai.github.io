@@ -17,7 +17,7 @@ body {
 /* Style the header */
 .header {
   background-color: #f1f1f1;
-  padding: 20px;
+  padding: 40px;
   text-align: center;
 }
 
@@ -42,6 +42,41 @@ body {
   background-color: #ddd;
   color: black;
 }
+/* Create three equal columns that floats next to each other */
+/*.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
 </style>
 </head>
     <body>
@@ -56,6 +91,15 @@ body {
 </div>
 
 
+    
+     <div class="row">
+  
+  
+  <div class="column side">
+    <h2>Column</h2>
+    <p> My tech blog I am writing some blogs on Deep learning and Graduate level Statistics</p>
+  </div>
+  <div class="column middle">
     <h2>My Journey</h2>
     <p>I dont think so my journey is inspring. but whatever i did i think is worth shareble. no doubt I am a failed Aerospace Engineer yet i have done 
       advanced courses but still i dont consider myself as true aerospace Engineer. I lost all hope projects. I was drowning. My cgpa was decreasing. 
@@ -63,5 +107,12 @@ body {
       darkness everywhere. thoughts to end everything.
       And now I am here writing everything on my own website that i made myself. A bayeian Statistian, Data Enthusiast Web And Soft developer.
      </p>
+  </div>
+  <div class="column side">
+    <h2>Column</h2>
+    <p>Notes on Arduino Machine Learning Deep learning Andrew NG Specialization Graduate level Stats SAS and Tensorflow
+    Later I wll add Complete Notes on Java, python and DSA</p>
+  </div>
+</div>
     </body>
   </html>
