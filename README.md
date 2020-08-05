@@ -45,6 +45,16 @@ body {
 </style>
 </head>
     <body>
+    	<div class="header">
+  <h1>Header</h1>
+</div>
+
+<div class="topnav">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
 
     <h2>My Journey</h2>
     <p>I dont think so my journey is inspring. but whatever i did i think is worth shareble. no doubt I am a failed Aerospace Engineer yet i have done 
