@@ -4,7 +4,6 @@
   <head>
     <meta charset = "UTF-08">
     <title> New Gen</title>
-  </head>
 <style>
 * {
   box-sizing: border-box;
@@ -32,6 +31,7 @@
   background-color: #ddd;
   color: black;
 }</style>
+    </head>
     <body>
 
     <h2>My Journey</h2>
