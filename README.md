@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CSS Website Layout</title>
+<title>Ashwani</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -46,13 +46,13 @@ body {
 </head>
     <body>
     	<div class="header">
-  <h1>Header</h1>
+  <h1>Labryinth</h1>
 </div>
 
 <div class="topnav">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
+  <a href="http://www.google.com" target = "_blank">Tech Blog</a>
+  <a href="http://www.youtube.com" target = "_blank">Projects</a>
+  <a href="http://www.facebook.com" target = "_blank">Notes</a>
 </div>
 
 
